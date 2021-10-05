@@ -11,9 +11,11 @@
   "profile": {
     "name": "typicode"
   },
-  "mentor": {
-    "id" : 1,
-    "name" : "Mentor A",
-    "job" : "Support"
-  }
+  "mentor": [
+    {
+      "id" : 1,
+      "name" : "Mentor A",
+      "job" : "Support"
+    }
+  ]
 }
