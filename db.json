@@ -8,9 +8,13 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+
   "profile": {
-    "name": "typicode"
+    "name": "Me Yu",
+    "email": "SE111222@fpt.edu.vn",
+    "phone": "0914432234"
   },
+
   "mentor": [
     {
       "id" : 1,
@@ -29,5 +33,5 @@
       "name" : "Mentor C",
       "job" : "Complain"
     }
-  ]
+  ],
 }
