@@ -9,11 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
 
-  "profile": {
-    "name": "Me Yu",
-    "email": "SE111222@fpt.edu.vn",
-    "phone": "0914432234"
-  },
+
 
   "mentor": [
     {
