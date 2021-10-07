@@ -25,12 +25,15 @@
       "postId": 1
     }
   ],
-  "profile": {
+
+  "profile": [
+  {
     "id": "1",
     "name": "Me Yu",
     "email": "SE111222@fpt.edu.vn",
     "phone": "0911222333"
-  },
+  }
+],
 
   "mentor": [
     {
