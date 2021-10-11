@@ -38,18 +38,21 @@
   "mentor": [
     {
       "id" : 1,
+      "img" : "https://www.maxpixel.net/static/photo/1x/Icon-Female-Avatar-Female-Icon-Red-Icon-Avatar-6007530.png",
       "name" : "Mentor A",
       "job" : "Support"
     },
 
     {
       "id" : 2,
+      "img": "https://www.maxpixel.net/static/photo/1x/Icon-Female-Avatar-Female-Icon-Red-Icon-Avatar-6007530.png",
       "name" : "Mentor B",
       "job" : "Library"
     },
 
     {
       "id" : 3,
+      "img": "https://i1.wp.com/s-knights.co.uk/wp-content/uploads/2016/04/avatar-small.jpg",
       "name" : "Mentor C",
       "job" : "Complain"
     }
